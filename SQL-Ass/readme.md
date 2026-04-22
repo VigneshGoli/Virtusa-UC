@@ -128,4 +128,4 @@ Because `Treatments` is linked by `patient_id` (not by `appointment_id` or treat
 
 ## Author
 
-Prepared as a SQL assignment project for hospital data analysis.
+Goli Vignesh
