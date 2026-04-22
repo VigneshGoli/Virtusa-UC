@@ -1,4 +1,4 @@
-# Library Management System
+<img width="243" height="149" alt="image" src="https://github.com/user-attachments/assets/b64380bc-0efc-4b36-b5c0-d9292795d091" /># Library Management System
 
 A simple console-based Library Management System written in Java. This README is organized as an explanation document with terminal screenshots so you can present the project clearly.
 
@@ -45,37 +45,34 @@ java Main
 
 ### 1. Compile and Run
 
-![alt text](image-1.png)
+<img width="625" height="55" alt="image" src="https://github.com/user-attachments/assets/8f0798be-fde0-44df-9445-112987c737e0" />
+
 
 ### 2. Main Menu Display
 
-Show all available options when the program starts.
+<img width="255" height="228" alt="image" src="https://github.com/user-attachments/assets/f083be26-39f7-4aaf-8668-7c50d12a5edc" />
 
-![Main Menu](assets/screenshots/02-main-menu.png)
 
 ### 3. Add Book
 
-Show entering `Book ID`, `Title`, `Author`, and `Quantity`, then the "Book added." output.
+<img width="281" height="141" alt="image" src="https://github.com/user-attachments/assets/6051263e-15d9-45bd-ae98-0435d5b6111e" />
 
-![Add Book](assets/screenshots/03-add-book.png)
 
 ### 4. View Books
 
-Show the list of books and available quantity.
+<img width="525" height="56" alt="image" src="https://github.com/user-attachments/assets/131d207a-24b6-4f62-8e0f-9c561e8c8fc8" />
 
-![View Books](assets/screenshots/04-view-books.png)
 
 ### 5. Register User
 
-Show entering `Roll No`, `Name`, `Year`, and `Department`, then the "User registered." output.
+<img width="203" height="142" alt="image" src="https://github.com/user-attachments/assets/51eb6487-2050-4994-95bd-2a483e765796" />
 
-![Register User](assets/screenshots/05-register-user.png)
 
 ### 6. Issue Book
 
-Show successful issue with user roll number and book ID.
+<img width="428" height="97" alt="image" src="https://github.com/user-attachments/assets/3fea159a-3a86-457b-a075-b97a1f13d2aa" />
 
-![Issue Book](assets/screenshots/06-issue-book.png)
+
 
 ### 7. Return Book and Fine
 
@@ -84,26 +81,22 @@ Show return output including:
 - total days
 - calculated fine
 
-![Return Book and Fine](assets/screenshots/07-return-book-fine.png)
+<img width="219" height="138" alt="image" src="https://github.com/user-attachments/assets/36dedd54-7e9b-4be0-81b8-7d9eea1f8068" />
+
 
 ### 8. Explore User
 
 Show user details with transaction status (`Active` or `Returned`) and total pending fine.
 
-![Explore User](assets/screenshots/08-explore-user.png)
+<img width="470" height="131" alt="image" src="https://github.com/user-attachments/assets/bff1732a-c124-4ba1-a7d7-e2b6a77c836a" />
+
 
 ### 9. View Pending Fines
 
 Show pending-fine report for users (or "No pending fines.").
 
-![Pending Fines](assets/screenshots/09-pending-fines.png)
+<img width="205" height="45" alt="image" src="https://github.com/user-attachments/assets/4214f695-2b29-4031-819c-e94b596598fa" />
 
-## Tips for Good Screenshots
-
-- Use the same terminal theme and font size for all images
-- Capture full command + output together
-- Keep one screenshot per feature for easy explanation
-- If output is long, take two images: input and result
 
 ## Limitations
 
