@@ -1,4 +1,4 @@
-<img width="243" height="149" alt="image" src="https://github.com/user-attachments/assets/b64380bc-0efc-4b36-b5c0-d9292795d091" /># Library Management System
+# Library Management System
 
 A simple console-based Library Management System written in Java. This README is organized as an explanation document with terminal screenshots so you can present the project clearly.
 
