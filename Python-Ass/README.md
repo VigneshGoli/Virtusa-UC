@@ -63,7 +63,8 @@ Fields:
 
 Shows all available operations in the program.
 
-![Main Menu](screenshots/01-main-menu.png)
+<img width="275" height="200" alt="image" src="https://github.com/user-attachments/assets/823e8209-28e3-48d5-b84a-0c8f2a49b777" />
+
 
 ### 2. Add Expense
 
@@ -74,41 +75,40 @@ The program asks for:
 - amount
 - description
 
-If the date is valid, the record is appended to expenses.csv.
-
-![Add Expense Input](screenshots/02-add-expense-input.png)
-![Add Expense Success](screenshots/03-add-expense-success.png)
+<img width="458" height="138" alt="image" src="https://github.com/user-attachments/assets/07a3dd43-7d35-4668-a626-aaa7fb407844" />
 
 ### 3. View Expenses
 
 Displays all entries from expenses.csv in row format.
 
-![View Expenses](screenshots/04-view-expenses.png)
+<img width="748" height="494" alt="image" src="https://github.com/user-attachments/assets/13126202-e688-43b4-afad-178bb6949212" />
 
 ### 4. Monthly Summary
 
 Input month in MM-YYYY format (example: 03-2026).
 The app calculates the sum of all expenses in that month.
 
-![Monthly Summary](screenshots/05-monthly-summary.png)
+<img width="337" height="38" alt="image" src="https://github.com/user-attachments/assets/55983a50-09ef-4ce0-bd2d-bb66b249a664" />
 
 ### 5. Category Summary
 
 Groups all expenses by category and prints total amount per category.
 
-![Category Summary](screenshots/06-category-summary.png)
+<img width="243" height="153" alt="image" src="https://github.com/user-attachments/assets/e0a8fd42-3d61-4b3c-bcb5-dd80802eeb8b" />
 
 ### 6. Highest Spending Category
 
 Finds and displays the category with the highest total spending.
 
-![Highest Spending Category](screenshots/07-highest-category.png)
+<img width="358" height="163" alt="image" src="https://github.com/user-attachments/assets/c48b2e43-6e50-4c44-8e77-0a1b71b2a3fd" />
+
 
 ### 7. Pie Chart Visualization
 
 Creates a pie chart from category totals using matplotlib.
 
-![Pie Chart](screenshots/08-pie-chart.png)
+<img width="763" height="560" alt="image" src="https://github.com/user-attachments/assets/b5d5da37-0c6b-4ead-86f3-bb9d40aa3bb4" />
+
 
 ---
 
