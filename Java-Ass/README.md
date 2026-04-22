@@ -50,25 +50,35 @@ java Main
 
 ### 2. Main Menu Display
 
+Show all available options when the program starts.
+
 <img width="255" height="228" alt="image" src="https://github.com/user-attachments/assets/f083be26-39f7-4aaf-8668-7c50d12a5edc" />
 
 
 ### 3. Add Book
+
+Show entering `Book ID`, `Title`, `Author`, and `Quantity`, then the "Book added." output.
 
 <img width="281" height="141" alt="image" src="https://github.com/user-attachments/assets/6051263e-15d9-45bd-ae98-0435d5b6111e" />
 
 
 ### 4. View Books
 
+Show the list of books and available quantity.
+
 <img width="525" height="56" alt="image" src="https://github.com/user-attachments/assets/131d207a-24b6-4f62-8e0f-9c561e8c8fc8" />
 
 
 ### 5. Register User
 
+Show entering `Roll No`, `Name`, `Year`, and `Department`, then the "User registered." output.
+
 <img width="203" height="142" alt="image" src="https://github.com/user-attachments/assets/51eb6487-2050-4994-95bd-2a483e765796" />
 
 
 ### 6. Issue Book
+
+Show successful issue with user roll number and book ID.
 
 <img width="428" height="97" alt="image" src="https://github.com/user-attachments/assets/3fea159a-3a86-457b-a075-b97a1f13d2aa" />
 
