@@ -8,7 +8,7 @@ The application starts from `Main.java` and displays a menu to perform library o
 
 Core functions:
 
-- Add and view books
+- Add,Remove,Update and View books
 - Register and view users
 - Issue and return books
 - Explore a user profile with transaction details
