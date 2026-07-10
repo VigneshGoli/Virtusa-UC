@@ -21,6 +21,8 @@ Execution order is important:
 - `Insertions.sql`: Sample data insertion scripts.
 - `Queries.sql`: Analytical SQL queries for insights.
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 10, 2026, 01_11_01 PM" src="https://github.com/user-attachments/assets/2e03e790-be32-4fe2-835c-d83bdf17f929" />
+
 ---
 
 ## Detailed Explanation
