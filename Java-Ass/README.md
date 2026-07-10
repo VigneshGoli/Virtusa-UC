@@ -14,6 +14,9 @@ Core functions:
 - Explore a user profile with transaction details
 - Calculate and display pending fines
 
+<img width="1448" height="1086" alt="ChatGPT Image Jul 10, 2026, 01_27_42 PM" src="https://github.com/user-attachments/assets/6a6e3a93-2bc3-4370-a6b3-8d77aab2443c" />
+
+
 ## Source Files
 
 - `Main.java` - Menu-driven program entry point
