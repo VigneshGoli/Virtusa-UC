@@ -9,6 +9,9 @@ This project stores expense entries in a CSV file, lets you review and summarize
 - main.py: Main application with all menu options and logic.
 - expenses.csv: Data file containing expense records.
 
+<img width="1448" height="1086" alt="ChatGPT Image Jul 10, 2026, 01_34_07 PM" src="https://github.com/user-attachments/assets/e66ce3d4-7033-420d-8f9e-6be74d19dabb" />
+
+
 ## Requirements
 
 - Python 3.8 or above
